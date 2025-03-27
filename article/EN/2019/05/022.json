@@ -1,0 +1,15 @@
+{
+    "url": "https://www.db.com/news/detail/20190507-fabric-recognised-at-red-hat-innovation-awards-2019-deutsche-bank-s-cloud-technology-honoured?language_id=1",
+    "language": "EN",
+    "article_type": "News",
+    "publish_date": "May 7, 2019",
+    "tags": [
+        "Awards",
+        "Company"
+    ],
+    "title": "Fabric recognised at Red Hat Innovation Awards 2019",
+    "body": "Fabric, Deutsche Bank\u2019s innovative hybrid Cloud technology, has won the Red Hat Innovation Awards in Boston. Red Hat is the world\u2019s leading provider of open source solutions, making the award among the most respected in the technology industry.\nA judging panel of business and open source technology experts commended Fabric for \u201cits compelling story of true business impact and transformation.\u201d\nA key component of Deutsche Bank's digital transformation strategy, Fabric offers an automated, self-service hybrid cloud platform that enables application teams to develop, deliver and scale applications faster and more efficiently. It provides the bank\u2019s developers with on-demand, self-service capabilities, which is more versatile than using traditional physical servers.\nAs a result, the bank has accelerated time-to-market for new applications and services and recently went live on the public cloud.\nFabric supports over 10,000 end users globally and is growing rapidly. The bank is meeting its goals of increased operational efficiency and has reduced the time it takes to move ideas from proof-of-concept to production from months to weeks.\n\u201cWe wanted to be able to quickly take an idea to production while meeting the security and regulatory standards of the industry. To achieve this, we needed not only innovative technology but a strategic partner that could execute globally and understand our business needs. We are buoyed by what we\u2019ve achieved so far and look forward to continuing on this journey with Red Hat,\u201d said Tom Gilbert, Global Head of Cloud, Application, and Integration Platforms.\n\u201cHuge congratulations to everyone who contributed to this success. It is further proof that when we work as a team, share resources, and collaborate, powerful things can happen,\u201d said Al Tarasiuk, Head of Group Chief Information Office.\nRead more about the award here.\nAbout Fabric\nFabric is a self-service environment that allows developers to build, deploy, and scale bank applications quickly and safely using the cloud. All infrastructure controls are built into the services. Fabric is based on Red Hat OpenShift, an open source container application platform.",
+    "number_of_ratings": 0,
+    "rating": null,
+    "likes": 8
+}
